@@ -1,4 +1,8 @@
-node_modules
+node_modules/
 .env
-forms.json
-responses.json
+client/node_modules/
+server/node_modules/
+server/.env
+client/.env
+server/forms.json
+server/responses.json

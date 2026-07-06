@@ -67,7 +67,6 @@ export default function ViewResponses() {
           ← Back to Dashboard
         </button>
 
-        {/* ---- Header card ---- */}
         <div className="gform-card" style={{ overflow: 'hidden', marginBottom: 24 }}>
           <div className="gform-header-strip" />
           <div style={{ padding: '28px 32px' }}>
